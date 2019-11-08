@@ -26,3 +26,9 @@
 * 06_definition
 * 07_included_once
 * 08_count_letters
+<<<<<<< HEAD
+=======
+* 09_vowels
+* 10_unique
+* 11_fizzbuzz
+>>>>>>> b366d1cd278c93875c0d8baa5a56af178b5d25b1
